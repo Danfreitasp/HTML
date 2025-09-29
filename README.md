@@ -1,7 +1,7 @@
-# 🌐 Estruturas em HTML e JavaScript - Engenharia de Software
+# 🌐 Estruturas em HTML, CSS e JavaScript - Engenharia de Software
 
-Este repositório contém exemplos e exercícios de **HTML** e **JavaScript** desenvolvidos para o curso de **Engenharia de Software**.  
-O objetivo é treinar a criação de **estruturas de páginas web** utilizando HTML básico, estilização simples com **CSS inline** e os primeiros testes de **JavaScript** para interatividade.
+Este repositório contém exemplos e exercícios de **HTML**, **CSS** e **JavaScript** desenvolvidos para o curso de **Engenharia de Software**.  
+O objetivo é treinar a criação de **estruturas de páginas web** utilizando HTML básico, estilização com **CSS** e testes de **JavaScript** para interatividade.
 
 ---
 
@@ -19,8 +19,12 @@ O objetivo é treinar a criação de **estruturas de páginas web** utilizando H
 - Estruturas principais (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`).  
 - **Títulos e subtítulos** com `<h1>`, `<h2>`.  
 - **Parágrafos** com `<p>`.  
-- **Estilização básica** via CSS dentro da tag `<style>`.  
 - **Imagens** com `<img>`, incluindo atributos de tamanho e centralização.  
+
+### 🔹 CSS
+- Definição de cores para títulos, subtítulos e parágrafos.  
+- Alteração de margens e alinhamentos.  
+- Estilização aplicada dentro da tag `<style>`.  
 
 ### 🔹 JavaScript
 - Inclusão de **scripts dentro da página** (`<script>`).  
